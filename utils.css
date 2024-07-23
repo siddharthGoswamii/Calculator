@@ -1,0 +1,17 @@
+.text-center{
+    text-align: center;
+    color: rgb(77, 90, 85);
+  }
+  
+  /* .mx-auto{
+    margin: auto;
+  } */
+  /* .m-w-20{
+    max-width: 15vw;
+  } */
+  .flex-col{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
